@@ -1,1 +1,1 @@
-Lab 1 image processing 8MA2
+Labs image processing 8MA2
